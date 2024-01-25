@@ -1,0 +1,14 @@
+footer {
+    background-color: blueviolet;
+    color: #fff;
+    text-align: center;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    margin-top: 100px;
+    padding: 15px
+}
+
+footer h3 {
+    color: #fff;
+}
