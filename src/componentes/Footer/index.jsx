@@ -4,7 +4,7 @@ const Footer = ({mensagem}) => {
         <footer>
             <h3>{mensagem}</h3>
         </footer>
-    )
-}
+    );
+};
    
 export default Footer

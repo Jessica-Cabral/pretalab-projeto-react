@@ -29,7 +29,6 @@ function App() {
           <Route path="/pokemon" element={<PokemonPage/>} />
         </Routes>
       </div>
-
       <Footer mensagem = "Desenvolvido por Jéssica Caroline Pires Cabral"/>
     </>
   );

@@ -1,5 +1,18 @@
+import "./styles.css"
+import React from "react"
+import "/PerfilSemFundo.png"
+
 const SobreMimPage = () => {
-    return <h1>Sobre mim page</h1>;
+    return (
+      <section className="perfil">
+        <div>
+          <h2>Olá,</h2>
+          <span>Sou Jéssica Pires Estudante de Desenvolvimento de Sistema</span>
+        </div>
+        <img src="/PerfilSemFundo.png" alt="Foto perfil" />
+      </section>   
+    );
+  
   };
   
-  export default SobreMimPage;
+export default SobreMimPage;
