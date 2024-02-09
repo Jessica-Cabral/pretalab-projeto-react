@@ -3,7 +3,7 @@ export const estudantes = [
      foto: "https://cdn.thedevconf.com.br/photos/f41b0a75d9c4276c49a947c40e2b640e855cedaa.jpg",
      nome: "Lisandra Cruz",
      comidaQueNaoGosta: "Pipoca queimada",
-     experienciaPositiva: "Logo após a entrega do meu TCC eu tava super cansada, então eu e meu janjo resolvemos fazer uma viagem massa aqui mesmo pelo nordeste, conhecer novos lugares, se divertir um pouco e comer boas comidas.",
+     experienciaPositiva:"Logo após a entrega do meu TCC eu tava super cansada, então eu e meu janjo resolvemos fazer uma viagem massa aqui mesmo pelo nordeste, conhecer novos lugares, se divertir um pouco e comer boas comidas.",
 },
 {
      foto: "https://marcozero.org/wp-content/uploads/2023/11/53348207327_1a13dc7c2f_c.jpg",
@@ -12,7 +12,7 @@ export const estudantes = [
      experienciaPositiva: "Ser embaixadora da ONU",
 },
 {
-     foto: "https://i.imgur.com/r8RHoF6.png",
+     foto: "https://newsone.com/wp-content/uploads/sites/22/2021/12/16395719695872.jpg?strip=all&quality=80",
      nome: "Marcela Ferreira",
      comidaQueNaoGosta: "Moela",
      experienciaPositiva: "Viajar Sozinha",
@@ -24,31 +24,31 @@ export const estudantes = [
      experienciaPositiva: "Morar sozinha",
 },
 {
-     foto: "https://drive.google.com/file/d/1odLHyGGWIUH1_qFBppvxyq4sq6Y3Kl9Q/view?usp=sharing",
+     foto: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQBr34DjMUUKCeLBXhKwMRhaGU-ioi_wS8IU_cOa1pz_TbapWWL8nX24-I-cigpPdSNRTOrgTtrTHAst72GVffYSf8Z=s1600",
      nome: "Cailane Gois",
      comidaQueNaoGosta: "Alimentos com muita azeitona",
-     experienciaPositiva: "Participar de um programa de empoderamento feminino e inovação organizado pela Embaixada dos EUA e o Instituto Glória, apresentei em equipe em DF e foi minha primeira viagem de avião.",
+     experienciaPositiva:"Participar de um programa de empoderamento feminino e inovação organizado pela Embaixada dos EUA e o Instituto Glória, apresentei em equipe em DF e foi minha primeira viagem de avião.",
 },
 {
-     foto: "https://drive.google.com/file/d/1UGaU-PxFO5H3tslOf5rLxdR-UeBegmqd/view?usp=sharing",
+     foto: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYSEDCRJXFrjT1Ae0OQfW0mp253NqeadoxhfK_pOHbu6_oYw7CRO5woopQcLJYohkPtkumEbcgx4MZY1W-DCl_liuRQumA=s2560",
      nome: "Larissa Bispo",
      comidaQueNaoGosta: "A que não existe",
      experienciaPositiva: "Intercâmbio em South Africa",
 },
 {
-     foto: "https://imgur.com/a/4uav5PN",
+     foto: "https://newsone.com/wp-content/uploads/sites/22/2021/12/16395719695872.jpg?strip=all&quality=80",
      nome: "Rôana Góes",
      comidaQueNaoGosta: "Se já comi algo que não gostei, não me lembro",
      experienciaPositiva: "Quando fui morar soiznha",
 },
 {
-     foto: "https://imgur.com/nXVygOe",
+     foto: "https://newsone.com/wp-content/uploads/sites/22/2021/12/16395719695872.jpg?strip=all&quality=80",
      nome: "Ayanne Laiz",
      comidaQueNaoGosta: "jiló",
      experienciaPositiva: "ser mãe da minha pequena",
 },
 {
-     foto: "https://imgur.com/CYolBO4",
+     foto: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYS5CvjFWSdzikKGWV3poc7IXGj2HsOTSZCAX9lz4Uz7erMLChC2JhYlOC6pvpgIF5HrkJxFC8eVRgji5aA5zAuAtn7y=s2560",
      nome: "Jéssica Caroline  Pires Cabral",
      comidaQueNaoGosta: "Pequi",
      experienciaPositiva: "Acompanhar o nascimento do meu sobrinho.",
@@ -69,13 +69,13 @@ export const estudantes = [
      foto: "https://newsone.com/wp-content/uploads/sites/22/2021/12/16395719695872.jpg?strip=all&quality=80",
      nome: "Ana Eduarda",
      comidaQueNaoGosta: "sopa de ervilha",
-     experienciaPositiva: "viagem para recife",
+     experienciaPositiva: "vigem para recife",
 },
 {
-     foto: "https://imgur.com/a/gabiNy4",
+     foto: "https://newsone.com/wp-content/uploads/sites/22/2021/12/16395719695872.jpg?strip=all&quality=80",
      nome: "Geiza Martins",
-     comidaQueNaoGosta: "Carne mal passada",
-     experienciaPositiva: "Viajar, terminar um livro, praia, reunião com amigos, conversas inteligentes",
+     comidaQueNaoGosta: "",
+     experienciaPositiva: "",
 },
 {
      foto: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRwIkDXvz-JqYxJJeNfBNe_DObInG-AV2ZLOqU9hkexdtHgnKEj0cS3U8eIslhYU3LxXM&usqp=CAU",
@@ -83,10 +83,4 @@ export const estudantes = [
      comidaQueNaoGosta: "coxinha de jaca",
      experienciaPositiva: "fiz 30 anos e decidi estudar programação",
 },
-{
-     foto: "https://imgur.com/a/gxpShX8",
-     nome: "Luciana Nascimento",
-     comidaQueNaoGosta: "Lasanha de beringela",
-     experienciaPositiva: "Ter duas sobrinhas que são minhas fofuras!",
-}
-]
+];
