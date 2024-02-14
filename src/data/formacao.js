@@ -1,6 +1,6 @@
 export const formacao = [
 {
-    curso: "Técico em desenvolvimento de sistemas",
+    curso: "Técnico em desenvolvimento de sistemas",
     instituicao: "SENAC",
     linkInstituicao: "https://www.senac.br/",
     descricao: "Desenvolvimento de sistemas web, mobile e desktop. Desenvolvimento de técnicas e ferramentas para a análise de requisitos, desenvolvimento, teste, publicação e manutenção das aplicações.",

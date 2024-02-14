@@ -7,14 +7,14 @@ export const projetos = [
      linkPublicacao: "https://calc-jessica.netlify.app/",
 },
 {
-     fotoProjeto: "https://i.imgur.com/dbXMDrb.png",
+     fotoProjeto: "https://i.imgur.com/HEqD1Bi.png",
      nomeProjeto: "Página E-commerce - Mulheres Negras",
      linguagem: "HTML - CSS",
      linkGitHub: "https://github.com/Jessica-Cabral/Modulo_2_html_css.git",
-     linkPublicacao: "https://jessica-cabral-portfolio.netlify.app/",
+     linkPublicacao: "https://i.imgur.com/P39m3BA.png",
 },
 {
-     fotoProjeto: "https://imgur.com/LvdZ55U.png",
+     fotoProjeto: "https://i.imgur.com/l4j7zzL.png",
      nomeProjeto: "Portfólio profissional",
      linguagem: "HTML - CSS",
      linkGitHub: "https://github.com/Jessica-Cabral/meu-portfolio.git",
