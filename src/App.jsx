@@ -24,9 +24,9 @@ function App() {
             <Route path ="estudantes" element={<SobreEstudantesPage />} />
           </Route>
           <Route path="/contador" element={<ContadorPage />} />
-          <Route path="*" element={<ErrorPage />} />
           <Route path="/endereco" element={<EnderecoPage />} />
           <Route path="/pokemon" element={<PokemonPage/>} />
+          <Route path="*" element={<ErrorPage />} />
         </Routes>
       </div>
       <Footer mensagem = "Desenvolvido por Jéssica Caroline Pires Cabral"/>
