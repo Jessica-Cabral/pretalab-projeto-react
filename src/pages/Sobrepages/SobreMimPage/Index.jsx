@@ -3,7 +3,6 @@ import React from "react";
 import Typography from "@mui/material/Typography";
 import Stack from "@mui/material/Stack";
 import Avatar from "@mui/material/Avatar";
-import { formacao } from "../../../data/formacao";
 import Link from "@mui/material/Link";
 import CardContent from "@mui/material/CardContent";
 import Button from "@mui/material/Button";

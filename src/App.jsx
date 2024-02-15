@@ -4,7 +4,6 @@ import ContadorPage from "./pages/ContadorPage";
 import { Route, Routes } from "react-router-dom";
 import ErrorPage from "./pages/ErrorPage";
 import SobrePage from "./pages/Sobrepages";
-import SobreMimPage from "./pages/Sobrepages/SobreMimPage";
 import SobreEstudantesPage from "./pages/Sobrepages/SobreEstudantesPage";
 import SobrePretaLabPage from "./pages/Sobrepages/SobrePretaLabPage";
 import PokemonPage from "./pages/PokemonPage";
@@ -20,7 +19,6 @@ function App() {
         <Route path="/" element={<SobreMimPage />} />
           <Route path="/sobre">
             <Route index element={<SobrePage />} />
-                <Route path ="mim" element={<SobreMimPage />} />
                 <Route path ="preta-lab" element={<SobrePretaLabPage />} />
                 <Route path ="estudantes" element={<SobreEstudantesPage />} />
             </Route>
