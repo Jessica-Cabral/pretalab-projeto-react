@@ -19,7 +19,6 @@ const Projetos = ({
             <CardMedia
                 sx={{ heigth:250}}
                 img={fotoProjeto}
-                title="green iguana"
             />
             <CardContent>
                 <Typography gutterBottom variant="h5" component="div">{nomeProjeto}</Typography>

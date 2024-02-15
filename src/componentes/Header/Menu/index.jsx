@@ -11,6 +11,11 @@ const Menu = () => {
           </Link>
         </li>
         <li>
+          <Link className="menu-item" to="/sobre">
+            Sobre
+          </Link>
+        </li>
+        <li>
           <Link className="menu-item" to="/contador">
             Contador
           </Link>
@@ -18,11 +23,6 @@ const Menu = () => {
         <li>
           <Link className="menu-item" to="/pokemon">
             Pokemons
-          </Link>
-        </li>
-        <li>
-          <Link className="menu-item" to="/sobre">
-            Sobre
           </Link>
         </li>
         <li>
