@@ -4,6 +4,7 @@ import ContadorPage from "./pages/ContadorPage";
 import { Route, Routes } from "react-router-dom";
 import ErrorPage from "./pages/ErrorPage";
 import SobrePage from "./pages/Sobrepages";
+import SobreMimPage from "./pages/Sobrepages/SobreMimPage";
 import SobreEstudantesPage from "./pages/Sobrepages/SobreEstudantesPage";
 import SobrePretaLabPage from "./pages/Sobrepages/SobrePretaLabPage";
 import PokemonPage from "./pages/PokemonPage";
