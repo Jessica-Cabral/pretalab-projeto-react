@@ -17,12 +17,12 @@ function App() {
 
       <div style={{ marginBottom: "130px"}}>
         <Routes>  
-        <Route path="/" element={<SobreMimPage />} />
+          <Route path="/" element={<SobreMimPage />} />
           <Route path="/sobre">
             <Route index element={<SobrePage />} />
-                <Route path ="preta-lab" element={<SobrePretaLabPage />} />
-                <Route path ="estudantes" element={<SobreEstudantesPage />} />
-            </Route>
+            <Route path ="preta-lab" element={<SobrePretaLabPage />} />
+            <Route path ="estudantes" element={<SobreEstudantesPage />} />
+          </Route>
           <Route path="/contador" element={<ContadorPage />} />
           <Route path="*" element={<ErrorPage />} />
           <Route path="/endereco" element={<EnderecoPage />} />
