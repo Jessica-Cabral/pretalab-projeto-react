@@ -12,7 +12,7 @@ const PokemonPage = () => {
   const fetchAllPokemons = async () => {
     try {
       const response = await Axios.get(
-        "https://pokeapi.co/api/v2/pokemon?limit=380"
+        "https://pokeapi.co/api/v2/pokemon?limit=280"
       );
       setPokemonsReferences(response.data.results);
     } catch (error) {
